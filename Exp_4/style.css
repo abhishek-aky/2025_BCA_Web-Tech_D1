@@ -1,0 +1,34 @@
+div{                    /* Element Selector*/
+    background-color: blueviolet;
+}
+span{
+    background-color: springgreen;
+    color: black;
+}
+th{
+    background-color: chocolate;
+    font-family: cursive;
+}
+td{
+    background-color: tomato;
+}
+
+#frst{              /*ID Selector*/ 
+    background-color:darkviolet;
+    color: snow;
+}
+
+.frth{          /*Class Selector*/
+            background-color: purple;
+            color: whitesmoke;
+}
+
+*{
+    background-color: mediumvioletred;
+}
+#thrd{
+    
+    background-color: rgb(rgb(17, 100, 89), green, blue);
+    color: deepskyblue;
+}
+
