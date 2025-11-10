@@ -1,0 +1,32 @@
+#fstdiv{
+    height: 300px;
+    width: 400px;
+    background-color:seagreen;
+    border:2px solid black;
+}
+#fstdiv:hover{
+    height:500px;
+    width:600px;
+    background-color: plum;
+    border: 5px dotted gold;
+}
+input{
+    background-color: aquamarine;
+    color: black;
+}
+input:focus{
+    background-color: slateblue;
+}
+
+button{
+    background-color: brown;
+}
+button{
+    background-color: olive;
+    color: whitesmoke;
+}
+button:active{
+    background-color: darkorchid;
+    border-radius: 25%;
+    color: whitesmoke;
+}

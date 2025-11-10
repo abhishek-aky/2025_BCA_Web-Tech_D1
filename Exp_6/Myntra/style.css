@@ -1,0 +1,15 @@
+.sect{
+    height: 720vh;
+    width: 1080vw;
+    border: 5px solid black;
+    display: flex;
+}
+.art{
+    height: 240px;
+    width:360px;
+    border:1px dashed grey;
+    /* border: 2px dashed rebeccapurple; */
+}
+.art:hover {
+    transform: translateY(-5px);
+}
